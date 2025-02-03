@@ -2,7 +2,7 @@
 template: blog-post
 title: Kviz o selu Šebet
 slug: /kviz
-date: 2025-02-03 17:18
+date: 2025-02-03 17:29
 description: Kviz o selu Šebet
 featuredImage: /assets/šebet-moj.jpg
 ---
